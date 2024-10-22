@@ -1,3 +1,6 @@
+# Ignore SDL and WebView DLLs
 SDL2.dll
 Webview2Loader.dll
+
+# Ignore HTML files
 we.html
