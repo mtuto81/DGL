@@ -1,0 +1,41 @@
+/* Style for all buttons */
+button {
+    background-color: #007bff;
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 9px 2px;
+    font-weight: bold;
+    font-size: 14px;
+    min-height: 200px;
+    min-width: 100px;
+  }
+  
+  /* Hover effect for buttons */
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style for all labels */
+  label {
+    color: #fb0000;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    padding: 5px;
+  }
+  
+  /* Specific button with a custom class */
+  button.button2 {
+    background-color: #28a745;
+    color: rgb(0, 0, 0);
+    border: 2px solid #218838;
+    min-height: 200px;
+    min-width: 100px;
+  }
+  
+  /* Specific label with a custom class */
+  label.label {
+    color: #077ee5;
+    font-style: italic;
+    font-size: 18px;
+  }
+  
